@@ -1,0 +1,12 @@
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.vbproj.AssemblyReference.cache
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.Form1.resources
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.Resources.resources
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.vbproj.GenerateResource.cache
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.vbproj.CoreCompileInputs.cache
+C:\Users\Utente-XB\source\repos\baccala\baccala\bin\Debug\baccala.exe.config
+C:\Users\Utente-XB\source\repos\baccala\baccala\bin\Debug\baccala.exe
+C:\Users\Utente-XB\source\repos\baccala\baccala\bin\Debug\baccala.pdb
+C:\Users\Utente-XB\source\repos\baccala\baccala\bin\Debug\baccala.xml
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.exe
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.xml
+C:\Users\Utente-XB\source\repos\baccala\baccala\obj\Debug\baccala.pdb
